@@ -8,3 +8,4 @@ comma splices - 컴마로만 이루어진 두개의 주어,동사
 choppy sentences - 문법적으로 문제는 없지만 너무 짧은 문장 반복
 stringy sentences - 너무 긴 문장 나열
 parallelism - 병렬구조 에러(대등접속사로 연결되어있으면 같게 와야됨)
+7.6
